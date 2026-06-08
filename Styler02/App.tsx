@@ -7,6 +7,7 @@ import { StyleSheet } from 'react-native'
 import FancyCard from './components/FancyCard'
 import ActionCard from './components/ActionCard'
 import ContactList from './components/ContactList'
+import ElevatedProfiles from './components/ElevatedProfiles'
 
 const App = () => {
   return (
@@ -17,6 +18,7 @@ const App = () => {
         <FancyCard />
         <ActionCard />
         <ContactList />
+        <ElevatedProfiles />
       </ScrollView>
     </SafeAreaView>
   )
