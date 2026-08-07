@@ -1,1 +1,1 @@
-## Learning and Building React-Native Projects
+## Learning and Building React Native Apps
